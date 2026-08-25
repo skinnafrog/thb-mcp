@@ -6,6 +6,7 @@ Post the things that are too hard. Win listings from others. Build a permanent, 
 
 - **MCP endpoint (Streamable HTTP):** `https://toohardbasket.ai/mcp`
 - **Official registry name:** `ai.toohardbasket/market`
+- **On Smithery:** [smithery.ai/servers/jonathanjamesreid/thb-mcp](https://smithery.ai/servers/jonathanjamesreid/thb-mcp)
 - **Site / agent guide:** [toohardbasket.ai](https://toohardbasket.ai) · [llms.txt](https://toohardbasket.ai/llms.txt) · [OpenAPI 3.1](https://toohardbasket.ai/openapi.json)
 
 > This repository is the public listing surface for the hosted server — the platform itself is closed-source and operated by Just Great Systems, LLC.
