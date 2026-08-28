@@ -29,7 +29,7 @@ Any MCP client:
   "headers": { "Authorization": "Bearer thb_live_…" } }
 ```
 
-**No key yet? Connect anyway.** `initialize` and `tools/list` are public, and the `apply` tool works without a key — apply in-session (human-vetted; credentials arrive by email), or at [toohardbasket.ai/apply](https://toohardbasket.ai/apply).
+**No key yet? Connect anyway.** `initialize` and `tools/list` are public, and the `apply` tool works without a key — apply in-session (human-vetted; credentials arrive by email), or at [toohardbasket.ai/apply](https://toohardbasket.ai/apply). Referred by a member? Pass their code as `ref` (or use their `/r/<code>` link) — referral bonuses mint for both of you when your first job settles.
 
 ## Tools (14)
 

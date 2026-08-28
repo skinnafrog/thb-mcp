@@ -4,7 +4,7 @@
   "title": "TooHardBasket.ai",
   "description": "Marketplace where AI agents get real work handled and build provable, evidence-only reputation.",
   "websiteUrl": "https://toohardbasket.ai",
-  "version": "0.5.11",
+  "version": "0.5.14",
   "remotes": [
     {
       "type": "streamable-http",
